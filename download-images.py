@@ -2,7 +2,6 @@ import os
 import shutil
 
 import pandas as pd
-import openpyxl
 import requests as requests
 
 print(os.getcwd())
