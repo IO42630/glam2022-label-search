@@ -16,3 +16,9 @@ for x in data.values:
     if res.status_code == 200:
         with open(x[0] + '.jpg', 'wb') as f:
             shutil.copyfileobj(res.raw, f)
+#by the way for the linux user. Wget is already part of the system. You can use it to download files from the command line.
+# For example:
+# creat a csv only with the url
+# got to the folder
+# in the shell: wget -i filenname.csv
+

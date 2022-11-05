@@ -11,3 +11,4 @@ if __name__ == '__main__':
     print(escr.get_documents())
     escr.g
     br = 0
+# by the way escriptorium is using https://kraken.re/master/index.html

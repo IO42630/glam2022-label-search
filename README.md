@@ -1,10 +1,10 @@
-# GLAM 2022 Label Search
+# GLAMHack 2022 Label Search
 
 **This is a work in progress until 
 prelimnary results will be presented on the GLAM Hack at Mendrisio 5th November 2023 around 3pm**
 
 This repository contains the ideas, codes and the documentation for the [GLAM Hack Project Label Recognition for Herbaria](https://hack.glam.opendata.ch/project/136). We focused on the collector "Walo Koch", therefor the hacking is fitting to this data.
-For all data the further [method and goal](https://hack.glam.opendata.ch/project/123) is formulated by the challenge provider 
+For all data the further [method and goal](https://hack.glam.opendata.ch/project/123) look at the formulations by the challenge provider 
 [Alessia Guggisberg](https://hack.glam.opendata.ch/user/AlessiaGuggisberg) - by the way thanks to her!
 
 ### Walo Koch and his labels
