@@ -1,4 +1,4 @@
-# GLAMHack 2022 Label Search
+# GLAMHack 2022 Label Search 🌿
 
 **This is a work in progress until 
 prelimnary results will be presented on the GLAM Hack at Mendrisio 5th November 2023 around 3pm**
@@ -18,8 +18,9 @@ For creating a model with [escriptorium](https://gitlab.com/scripta/escriptorium
 Team
 Rae, Marina, Ivan, Lionel, Ralph
 
+<br> <br>
 
+### Other Files
 
 * tesseract.py 
   * install Tesseract (Win) && run script
-  * 
