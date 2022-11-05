@@ -7,7 +7,7 @@ This repository contains the ideas, codes and the documentation for the [GLAM Ha
 For all data the further [method and goal](https://hack.glam.opendata.ch/project/123) is formulated by the challenge provider 
 [Alessia Guggisberg](https://hack.glam.opendata.ch/user/AlessiaGuggisberg) - by the way thanks to her!
 
-# Walo Koch and his labels
+### Walo Koch and his labels
 Walo Koch (* 29th November 1896, Laufenburg; † 18. Juli 1956, Poschiavo) is represented on the herbaria with handritten
 text and machinewritten. Latter we have focused on.
 Even there we have to distinguish between "leg. Walo Koch" and "det. Walo Koch".
