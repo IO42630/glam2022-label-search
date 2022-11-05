@@ -1,0 +1,2 @@
+escriptorium_connector
+python-dotenv
