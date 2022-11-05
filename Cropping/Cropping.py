@@ -23,4 +23,4 @@ crop()
 
 #next steps would be to extand the code for cropping more images,
 #but the size is different
-#so idea would be to add create a loop: estimate the size of the image, cropt it and go to the next image
+#so idea would be to add a loop: estimate the size of the image, crop it and go to the next image.
