@@ -9,4 +9,5 @@ if __name__ == '__main__':
     password = str(os.getenv('ESCRIPTORIUM_PASSWORD'))
     escr = EscriptoriumConnector(url, username, password)
     print(escr.get_documents())
+    escr.g
     br = 0
