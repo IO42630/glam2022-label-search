@@ -3,3 +3,4 @@
 
 * tesseract.py 
   * install Tesseract (Win) && run script
+  * test
